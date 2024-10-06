@@ -1,5 +1,5 @@
-*PHR Hackathon Project*
-Overview
+# PHR Hackathon Project
+**Overview**
 This project is a healthcare service platform that allows users to access various healthcare services, including teleconsultations, appointment bookings, and personal health records (PHR) management, powered by the Ayushman Bharat Health Account (ABHA). The app is built using React Native for mobile platforms and integrates various APIs to facilitate secure and easy access to healthcare services.
 
 Features
